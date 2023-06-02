@@ -15,7 +15,7 @@ cd RN-Calculator
 npm install
 ```
 
-## Run
+## Run the app
 ```bash
 npx react-native run-android
 ``` 
