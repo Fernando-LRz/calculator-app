@@ -10,12 +10,12 @@ git clone https://github.com/Fernando-LRz/RN-Calculator.git
 ```bash
 cd RN-Calculator
 ```
-3. Install everything needed to run the app
+3. Install the packages
 ```bash
 npm install
 ```
 
-## Run the app
+## Run
 ```bash
 npx react-native run-android
 ``` 
