@@ -10,7 +10,7 @@ git clone https://github.com/Fernando-LRz/RN-Calculator.git
 ```bash
 cd RN-Calculator
 ```
-3. Install the packages
+3. Install dependencies
 ```bash
 npm install
 ```
