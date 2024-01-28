@@ -8,7 +8,7 @@ git clone https://github.com/Fernando-LRz/calculator-app.git
 ``` 
 2. Go inside the project folder
 ```bash
-cd RN-calculator
+cd calculator-app
 ```
 3. Install dependencies
 ```bash
