@@ -8,7 +8,7 @@ git clone https://github.com/Fernando-LRz/RN-calculator.git
 ``` 
 2. Go inside the project folder
 ```bash
-cd RN-Calculator
+cd RN-calculator
 ```
 3. Install dependencies
 ```bash
