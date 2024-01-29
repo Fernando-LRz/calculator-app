@@ -21,7 +21,6 @@ npx react-native run-android
 ``` 
 
 ## App images
-<div>
-  <img src="images/img-01.png" alt="calculator img-01" width="200px" height="430px" />
-  <img src="images/img-02.png" alt="calculator img-02" width="200px" height="430px" />
-</div>
+| Calculator img-01                                       | Calculator img-02                                       |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="images/img-01.png" width="240" height="490"/> | <img src="images/img-02.png" width="240" height="490"/> |
