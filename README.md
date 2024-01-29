@@ -19,3 +19,9 @@ npm install
 ```bash
 npx react-native run-android
 ``` 
+
+## App images
+<div style="display: flex;">
+  <img src="images/img-01.png" alt="calculator img-01" width="200px" height="430px" />
+  <img src="images/img-02.png" alt="calculator img-02" width="200px" height="430px" />
+</div>
