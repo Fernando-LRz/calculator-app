@@ -6,7 +6,7 @@ Basic operations calculator built with React Native.
 ```bash
 git clone https://github.com/Fernando-LRz/calculator-app.git
 ``` 
-2. Go inside the project folder
+2. Navigate to the project directory
 ```bash
 cd calculator-app
 ```
