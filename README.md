@@ -1,5 +1,5 @@
 # Calculator app
-Basic operations calculator built with React Native.
+Basic operations calculator app built with React Native.
 
 ## Installation
 1. Clone the repository
