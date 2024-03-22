@@ -23,4 +23,4 @@ npx react-native run-android
 ## App images
 | Calculator                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- |
-| <img src="images/img-01.png" width="240" height="490"/>  <img src="images/img-02.png" width="240" height="490"/>  |
+| <img src="images/img-01.png" width="235" height="490"/>  <img src="images/img-02.png" width="235" height="490"/>  |
